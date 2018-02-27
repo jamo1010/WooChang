@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ForeFuOrder", "ForeFuOrder.vcxproj", "{BBC4C27E-B12D-4E53-A136-A10EC0F5953F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CheckAccount", "..\CheckAccount\CheckAccount.vdproj", "{03C2F4BE-9A9E-4794-B29A-A15F78BFC7E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC4C27E-B12D-4E53-A136-A10EC0F5953F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBC4C27E-B12D-4E53-A136-A10EC0F5953F}.Debug|Win32.Build.0 = Debug|Win32
+		{BBC4C27E-B12D-4E53-A136-A10EC0F5953F}.Release|Win32.ActiveCfg = Release|Win32
+		{BBC4C27E-B12D-4E53-A136-A10EC0F5953F}.Release|Win32.Build.0 = Release|Win32
+		{03C2F4BE-9A9E-4794-B29A-A15F78BFC7E3}.Debug|Win32.ActiveCfg = Debug
+		{03C2F4BE-9A9E-4794-B29A-A15F78BFC7E3}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://woochang.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ForeFuOrder.vcxproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\CheckAccount\\CheckAccount.vdproj
+		SccProjectName2 = ../CheckAccount
+		SccLocalPath2 = ..\\CheckAccount
+	EndGlobalSection
+EndGlobal
